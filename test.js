@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const { parseHousesWithAI } = require('./index');
 
 async function runTest() {
