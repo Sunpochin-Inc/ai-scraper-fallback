@@ -1,6 +1,6 @@
 {
   "name": "ai-scraper-fallback",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A robust HTML-to-JSON scraper for real estate websites, using Google's Gemini API to extract structured data from complex web pages.",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/Sunpochin-Inc/ai-scraper-fallback#readme",
   "dependencies": {
-    "@google/generative-ai": "^0.24.1",
+    "@google/generative-ai": "^0.24.1"
+  },
+  "devDependencies": {
     "dotenv": "^17.4.2"
   }
 }
