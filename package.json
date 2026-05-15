@@ -1,6 +1,6 @@
 {
   "name": "ai-scraper-fallback",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A robust HTML-to-JSON scraper for real estate websites, using Google's Gemini API to extract structured data from complex web pages.",
   "main": "index.js",
   "scripts": {
